@@ -11,3 +11,7 @@ Using Clocking Wizard of Vivado, please create an IP that inputs a 50MHz clock s
 The HDMI display shows the following pattern.
 
 https://github.com/user-attachments/assets/97278351-a91e-49ef-a9b1-7a2c3b1cfb9f
+
+This table shows the hardware utilization of post-implementation. 
+
+![resource](https://github.com/user-attachments/assets/6d40fc8c-a137-4d6c-b6df-e44bf661860f)
