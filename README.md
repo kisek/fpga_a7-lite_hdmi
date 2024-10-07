@@ -6,7 +6,7 @@ This is an HDMI output example for MicroPhase A7-Lite FPGA board with an XC7A100
 
 When creating a Vivado project, please select **xc7a100tfgg484-1** as an FPGA.
 
-Using Clocking Wizard of Vivado, please create an IP that inputs a 50MHz clock signal and outputs 25MHz and 250MHz clock signals.
+Using Clocking Wizard of Vivado, please create an IP that inputs a 50MHz clock signal and outputs 25MHz and 250MHz clock signals. Don't forget to disable all Optional Inputs/Outputs for MMCM/PLL!
 
 ![clock](https://github.com/user-attachments/assets/1858ca75-f1cc-4d95-a771-6891c947630f)
 
